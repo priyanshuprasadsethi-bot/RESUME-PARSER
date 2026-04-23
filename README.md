@@ -98,7 +98,13 @@ Evaluates:
 - Base64 encoding for API transmission
 
 ---
+🧪 Demo Mode
+# My Project
 
+This is my project description.
+
+## Demo
+[View Live Demo](https://priyanshu1919.netlify.app/)
 ## 🧩 Project Structure
 ResumeAI/
 │
