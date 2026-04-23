@@ -144,7 +144,12 @@ ResumeAI/
 git clone https://github.com/your-username/resumeai.git
 cd resumeai
 🧪 Demo Mode
+# My Project
 
+This is my project description.
+
+## Demo
+[View Live Demo](https://priyanshu1919.netlify.app/)
 If the API call fails:
 
 App prompts to load demo data
